@@ -9,7 +9,7 @@ The goal of this piece was to explore **boom bap drum grooves paired with RNB st
 ## ▶️ Demo Video
 
 Watch a short walkthrough of the beat and code structure here:  
-**Demo:** https://YOUR_VIDEO_LINK_HERE
+**[Demo Video:](https://www.linkedin.com/posts/calvin-van-dev_strudel-buildinginpublic-opensource-activity-7423509598059286528-6EL3?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAABAtN4gBzdUkaaAEr7B9-c5zPwP7-zOpCFw)** 
 
 ---
 
