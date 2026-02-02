@@ -1,6 +1,6 @@
 # 🎶 Strudel Boom Bap + RNB Live Coding Beat
 
-This project is a live coded music composition built using **Strudel**, a JavaScript based pattern music environment.
+This project is a live coded music composition built using **Strudel REPL**, a JavaScript based pattern music environment.
 
 The goal of this piece was to explore **boom bap drum grooves paired with RNB style piano harmony**, while structuring the code like a real song instead of a static loop.
 
